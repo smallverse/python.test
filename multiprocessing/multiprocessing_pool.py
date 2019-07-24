@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from multiprocessing import Pool
 import os, time, random
 
